@@ -21,8 +21,8 @@ root.render(
   // <BasicButton variant="contained" color="red" />
   // <Button/>
   // </>
-  // <Timer/>
-  <Stopwatch/>
+  <Timer/>
+  // <Stopwatch/>
 );
 
 // If you want to start measuring performance in your app, pass a function
